@@ -19,5 +19,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" title="C#" width="35" height="35"/> 
   </a>
   &#8287;
-    
+    <a href="https://learn.microsoft.com/pt-br/dotnet/framework/get-started/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot net framework" title=".Net Framework" width="35" height="35"/> 
+  </a>
+    &#8287;
 </div>
