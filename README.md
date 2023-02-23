@@ -16,14 +16,36 @@
 <h2>Expert in</h2>
   <div>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" title="C#" width="35" height="35"/> 
+    <img src="icons/csharp.png" alt="c sharp" title="C#" width="35" height="35"/> 
   </a>
   &#8287;
-    <a href="https://learn.microsoft.com/pt-br/dotnet/framework/get-started/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot net framework" title=".Net Framework" width="35" height="35"/> 
+    <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
+    <img src="icons/NET_Core_Logo.svg" alt="dot net core" title=".Net Core" width="35" height="35"/> 
   </a>
     &#8287;
-    <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot net framework" title=".Net Framework" width="35" height="35"/> 
+    <a href="https://learn.microsoft.com/pt-br/dotnet/framework/get-started/" target="_blank"> 
+    <img src="icons/dot-net-plain-wordmark.svg" alt="dot net framework" title=".Net Framework" width="35" height="35"/> 
   </a>
 </div>
+  
+ <h2>I used in some project</h2>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
+    <img src="icons/pluginIcon.svg" alt="dot net core" title=".Net Core" width="35" height="35"/> 
+  </a>
+    &#8287;<a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
+    <img src="icons/mysql-original.svg" alt="dot net core" title=".Net Core" width="35" height="35"/> 
+  </a>
+    &#8287;<a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
+    <img src="icons/html5-plain-wordmark.svg" alt="dot net core" title=".Net Core" width="35" height="35"/> 
+  </a>
+    &#8287;<a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
+    <img src="icons/css3-plain-wordmark.svg" alt="dot net core" title=".Net Core" width="35" height="35"/> 
+  </a>
+    &#8287;<a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
+    <img src="icons/javascript-original.svg" alt="dot net core" title=".Net Core" width="35" height="35"/> 
+  </a>
+    &#8287;
+  <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> 
+    <img src="icons/bootstrap-original-wordmark.svg" alt="dot net core" title=".Net Core" width="35" height="35"/> 
+  </a>
+  
