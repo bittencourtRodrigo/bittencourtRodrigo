@@ -5,8 +5,8 @@
   GitHub for personal projects and community help.
 <p>
 <p>
-  I'm developing a <b>sales recorder<b>: 
-  <a href="https://github.com/bittencourtRodrigo/sales-recorder" title="https://github.com/bittencourtRodrigo/sales-recorder">Go to project</a>
+  I'm currently developing <b>deep skills in C#<b>. 
+  <a href="https://codewithmosh.com/p/csharp-advanced" title="https://codewithmosh.com/p/csharp-advanced">Check out</a>
 <p>
 <p>
   More about me: 
