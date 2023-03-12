@@ -5,8 +5,8 @@
   GitHub for personal projects and community help.
 <p>
 <p>
-  I'm currently developing <b>deep skills in C#<b>. 
-  <a href="https://codewithmosh.com/p/csharp-advanced" title="https://codewithmosh.com/p/csharp-advanced">Check out</a>
+  I'm currently development an<b> Enterprise resource planning (ERP) project<b>.
+  <a href="https://miro.com/app/board/uXjVMeFOdkg=/?share_link_id=259907842528" title="https://miro.com/app/board/uXjVMeFOdkg=/?share_link_id=259907842528">Check the idea and construction of the project</a>
 <p>
 <p>
   More about me: 
