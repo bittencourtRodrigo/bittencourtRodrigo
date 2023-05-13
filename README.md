@@ -5,7 +5,7 @@
   GitHub for personal projects and community help.
 <p>
 <p>
-  I'm currently development an <b>Enterprise resource planning (ERP) project</b>. The project is going well. Server, API and app are well developed. I will release everything soon. I will comment in depth on my <a href="https://www.linkedin.com/in/bittencourtrodrigo/" target="_blank" title="https://www.linkedin.com/in/bittencourtrodrigo/">Linkedin<a>.
+  I'm currently development, alone, an <b>Enterprise resource planning (ERP) project</b>. The project is going well. Server, API and app are well developed. I will release everything soon. I will comment in depth on my <a href="https://www.linkedin.com/in/bittencourtrodrigo/" target="_blank" title="https://www.linkedin.com/in/bittencourtrodrigo/">Linkedin<a>.
 <p>
 <p>
   More about me: 
