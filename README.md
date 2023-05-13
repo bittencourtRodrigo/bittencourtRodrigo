@@ -5,8 +5,7 @@
   GitHub for personal projects and community help.
 <p>
 <p>
-  I'm currently development an<b> Enterprise resource planning (ERP) project<b>.
-  <a href="https://miro.com/app/board/uXjVMeFOdkg=/?share_link_id=259907842528" title="https://miro.com/app/board/uXjVMeFOdkg=/?share_link_id=259907842528">Check the idea and construction of the project</a>
+  I'm currently development an <b>Enterprise resource planning (ERP) project</b>. The project is going well. Server, API and app are well developed. I will release everything soon. I will comment in depth on my <a href="https://www.linkedin.com/in/bittencourtrodrigo/" target="_blank" title="https://www.linkedin.com/in/bittencourtrodrigo/">Linkedin<a>.
 <p>
 <p>
   More about me: 
