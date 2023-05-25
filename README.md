@@ -24,8 +24,32 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/get-started/" target="_blank"> 
   <img src="icons/dot-net-plain-wordmark.svg" alt="dot net framework" title=".Net Framework" width="35" height="35"/> 
   </a>
+  &#8287;
+  <a href="" target="_blank"> 
+  <img src="icons/maui.png" alt="dot net maui" title=".Net MAUI" width="35" height="35"/> 
+  </a>
 </div>
 <h2>I used in some project</h2>
+<a href="" target="_blank"> 
+<img src="icons/azure.png" alt="Azure" title="Azure" width="35" height="35"/> 
+</a>
+&#8287;
+<a href="" target="_blank"> 
+<img src="icons/sqlsever.png" alt="SQL Server" title="SQL Server" width="35" height="35"/> 
+</a>
+&#8287;
+<a href="" target="_blank"> 
+<img src="icons/sqlite.svg" alt="SQlite" title="SQlite" width="35" height="35"/> 
+</a>
+&#8287;
+<a href="" target="_blank"> 
+<img src="icons/firebase.svg" alt="Firebase" title="Firebase" width="35" height="35"/> 
+</a>
+&#8287;
+<a href="" target="_blank"> 
+<img src="icons/xml.png" alt="XML" title="XML" width="35" height="35"/> 
+</a>
+&#8287;
 <a href="https://learn.microsoft.com/en-us/ef/" target="_blank"> 
 <img src="icons/pluginIcon.svg" alt="entity framework core" title="Entity Framework Core" width="35" height="35"/> 
 </a>
